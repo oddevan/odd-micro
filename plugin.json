@@ -1,0 +1,22 @@
+{
+	"version": "0.0.1",
+	"title": "Odd Micro theme",
+	"description": "A Micro.blog theme built for oddEvan but hopefully useful.",
+	"fields": [
+		{
+			"field": "params.oddmicro_color1",
+			"label": "Accent text color",
+			"type": "color"
+		},
+		{
+			"field": "params.oddmicro_color2",
+			"label": "Accent background color",
+			"type": "color"
+		},
+		{
+			"field": "params.oddmicro_color3",
+			"label": "Hover background color",
+			"type": "color"
+		}
+	]
+}
