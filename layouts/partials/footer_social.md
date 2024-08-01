@@ -1,0 +1,8 @@
+- [Micro.blog](https://micro.blog/oddevan)
+- [Mastodon](https://mastodon.social/@oddevan)
+- [GitHub](https://github.com/oddevan)
+- [Tumblr](https://oddevan.tumblr.com/)
+- [YouTube](https://www.youtube.com/oddevan)
+- [LinkedIn](https://www.linkedin.com/in/evanhildreth/)
+- [Read.cv](https://read.cv/oddevan)
+- [TCGplayer](https://eph.me/tcgp)
