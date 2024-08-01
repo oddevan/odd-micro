@@ -38,13 +38,11 @@
 		<aside>
 			<h3>Find oddEvan on</h3>
 
-			{% capture social %}{% include footer_social.md %}{% endcapture %}
-			{{ social | markdownify }}
+			{{ readFile "/layouts/partials/footer_social.md" | markdownify }}
 		</aside>
 
 		<nav>
-			{% capture nav %}{% include footer_nav.md %}{% endcapture %}
-			{{ nav | markdownify }}
+			{{ readFile "/layouts/partials/footer_nav.md" | markdownify }}
 		</nav>
 	</div>
 </footer>
