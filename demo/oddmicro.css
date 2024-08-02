@@ -43,6 +43,12 @@ img {
 	max-width: 47rem;
 }
 
+article.h-entry.post {
+	margin-inline: auto;
+	padding-inline: 0.5rem;
+	max-width: 47rem;
+}
+
 body > header {
 	border-bottom: 2px solid var(--grey);
 

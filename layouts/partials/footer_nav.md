@@ -1,19 +1,19 @@
-### [Projects](#)
+### [Projects](/projects)
 
-	- [Smolblog](#)
-	- [PillTimer](#)
-	- [oddEvan UI](#)
-	- [madcrasher](#)
-	- [Other projects](#)
+- [Smolblog](/projects/smolblog)
+- [PillTimer](/projects/pilltimer)
+- [oddEvan UI](/projects/ui)
+- [madcrasher](/projects/madcrasher)
+- [Other projects](/projects/etc)
 
-### [Archive](#)
+### [Archive](/archive)
 
-### [Links](#)
+### [Links](/links)
 
-	- [Blogroll](#)
-	- [Resources](#)
-	- [Fun Times](#)
+- [Blogroll](/links/blogroll)
+- [Resources](/links/resources)
+- [Fun Times](/links/fun)
 
-### [About](#)
+### [About](/about)
 
-	- [About Istoria](#)
+- [About Istoria](/about-istoria)
