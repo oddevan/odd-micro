@@ -11,4 +11,4 @@ The unholy love-child of synthpop and hip-hop.
 
 Sometimes the only way up is to grow. Sometimes the questions need to be asked of ourselves. Sometimes we stand firm,
 and others we admit our wanderlust. Sometimes the only way to say something is to sing it. And sometimes the only way to
-sing is to rap. Or use copious amounts of <del>auto-tune</del> <ins>pitch correction</ins>.
+sing is to rap. Or use copious amounts of <del>AutoTune&trade;</del> <ins>pitch correction</ins>.
