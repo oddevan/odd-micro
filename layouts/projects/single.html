@@ -1,0 +1,29 @@
+{{ define "main" }}
+
+<main class="project h-entry">
+	<header style="background-image: url({{ .Params.hero_image }});">
+		<h1 class="p-name"><img src="{{ .Params.logo_image }}" alt="{{ .Title }}"></h1>
+	</header>
+
+	<div class="max-medium writeup">
+		{{ .Content }}
+	</div>
+
+	<div class="max-large gallery">
+		{{ range .Params.gallery }}
+		<img src="{{ . }}" alt="Screenshot" loading="lazy">
+		{{ end }}
+	</div>
+
+	<div class="max-medium cta">
+		<a href="{{ .Params.link }}">
+			<span>{{ .Params.link_text }}</span>
+			<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+				<path stroke-linecap="round" stroke-linejoin="round" d="m5.25 4.5 7.5 7.5-7.5 7.5m6-15 7.5 7.5-7.5 7.5" />
+			</svg>
+			<!-- Icon from Heroicons (c) 2020 Refactoring UI Inc. used under license. https://github.com/tailwindlabs/heroicons/ -->			
+		</a>
+	</div>
+</main>
+
+{{ end }}
