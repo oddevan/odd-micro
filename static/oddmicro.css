@@ -256,6 +256,7 @@ body > footer {
 
 	.colophon {
 		font-size: .8em;
+		margin-block-end: 3rem;
 	}
 }
 
@@ -279,13 +280,27 @@ body > footer {
 			grid-template-columns: 1fr 1fr;
 			grid-template-rows: auto;
 		}
+
+		.colophon {
+			grid-column: span 2;
+		}
 	}
 }
 
 @media screen and (min-width: 43rem) {
-	body > footer > div {
-		grid-template-columns: 2fr 1fr 1fr;
-		gap: 3em;
+	body > footer {
+		.tagline {
+			grid-row: revert;
+		}
+
+		& > div {
+			grid-template-columns: 2fr 1fr 1fr;
+			gap: 3em;
+		}
+
+		.colophon {
+			grid-column: revert;
+		}
 	}
 
 	main.project div.gallery {
