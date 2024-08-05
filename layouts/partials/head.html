@@ -1,5 +1,18 @@
-{{ partial "microblog_head.html" . }}
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="https://api.fontshare.com/v2/css?f[]=satoshi@1,2&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="/oddmicro.css">
+  <meta content="{{ .Site.Author.name }}" name="author">
+  <link href="{{ "assets/css/highlight.css" | relURL }}?{{ .Site.Params.theme_seconds }}" rel="stylesheet">
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="https://api.fontshare.com/v2/css?f[]=satoshi@1,2&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/oddmicro.css">
+  <title>
+      {{- block "title" . -}}
+		{{- .Site.Title -}}
+		{{- if and .Title (ne .Title .Site.Title) }}
+		- {{ .Title }}
+		{{- end -}}
+      {{- end -}}
+  </title>
+	
+	{{ partial "microblog_head.html" . }}
+</head>
