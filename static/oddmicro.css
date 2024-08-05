@@ -28,6 +28,7 @@ a {
 
 img {
 	max-width: 100%;
+	height: auto;
 }
 
 .max-large, .max-medium {
@@ -43,10 +44,20 @@ img {
 	max-width: 47rem;
 }
 
-article.h-entry.post {
+/* Built-in styles */
+article.h-entry.post, #post-list {
 	margin-inline: auto;
 	padding-inline: 0.5rem;
 	max-width: 47rem;
+}
+
+#post-list {
+	list-style-type: none;
+	padding-inline: 0;
+}
+
+article.h-entry.post #post-meta {
+	display: none;
 }
 
 body > header {
