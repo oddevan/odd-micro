@@ -3,7 +3,7 @@ title = "oddEvan UI"
 link = "https://ui.oddevan.com/"
 link_text = "See oddEvan UI"
 hero_image = "https://picsum.photos/1920/1080"
-logo_image = "https://smolblog.com/wp-content/uploads/2024/02/smolblog.wordmark.ondark.png"
+logo_image = "/logos/oeui.svg"
 gallery = ['https://picsum.photos/300?random=1', 'https://picsum.photos/300?random=2', 'https://picsum.photos/300?random=3', 'https://picsum.photos/300?random=4', 'https://picsum.photos/300?random=5']
 +++
 

@@ -3,7 +3,7 @@ title = "Smolblog"
 link = "https://smolblog.com/"
 link_text = "Visit Smolblog"
 hero_image = "https://picsum.photos/1920/1080"
-logo_image = "https://smolblog.com/wp-content/uploads/2024/02/smolblog.wordmark.ondark.png"
+logo_image = "/logos/smolblog.svg"
 gallery = ['https://picsum.photos/300?random=1', 'https://picsum.photos/300?random=2', 'https://picsum.photos/300?random=3', 'https://picsum.photos/300?random=4', 'https://picsum.photos/300?random=5']
 +++
 

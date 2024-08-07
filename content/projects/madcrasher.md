@@ -2,9 +2,9 @@
 title = "madcrasher"
 link = "https://madcrasher.com/"
 link_text = "Listen to madcrasher"
-hero_image = "https://picsum.photos/1920/1080"
-logo_image = "https://smolblog.com/wp-content/uploads/2024/02/smolblog.wordmark.ondark.png"
-gallery = ['https://www.madcrasher.com/img/identity.jpg', 'https://www.madcrasher.com/img/step-back-and-focus.jpg', 'https://www.madcrasher.com/img/terra-firma.jpg', 'https://www.madcrasher.com/img/north-wind.jpg', 'https://www.madcrasher.com/img/i-still-havent-found.jpg']
+hero_image = "https://oddevan.com/uploads/2024/folly-holga.jpeg"
+logo_image = "/logos/madcrasher.svg"
+gallery = ['https://oddevan.com/uploads/2024/cover-3.jpg', 'https://oddevan.com/uploads/2024/cover-2.jpg', 'https://oddevan.com/uploads/2024/cover.jpg', 'https://oddevan.com/uploads/2024/north-wind.jpg', 'https://oddevan.com/uploads/2024/still-havent-found.jpg']
 +++
 
 The unholy love-child of synthpop and hip-hop.
