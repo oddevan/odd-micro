@@ -2,7 +2,7 @@
 title = "PillTimer"
 link = "https://pilltimer.app/"
 link_text = "Get PillTimer"
-hero_image = "https://picsum.photos/1920/1080"
+hero_image = "https://oddevan.com/uploads/2024/pt-hero.jpg"
 logo_image = "/logos/pilltimer.svg"
 gallery = ['https://picsum.photos/300?random=1', 'https://picsum.photos/300?random=2', 'https://picsum.photos/300?random=3', 'https://picsum.photos/300?random=4', 'https://picsum.photos/300?random=5']
 +++
