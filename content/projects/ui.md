@@ -4,7 +4,7 @@ link = "https://ui.oddevan.com/"
 link_text = "See oddEvan UI"
 hero_image = "https://picsum.photos/1920/1080"
 logo_image = "/logos/oeui.svg"
-gallery = ['https://picsum.photos/300?random=1', 'https://picsum.photos/300?random=2', 'https://picsum.photos/300?random=3', 'https://picsum.photos/300?random=4', 'https://picsum.photos/300?random=5']
+gallery = ['https://oddevan.com/uploads/2024/screenshot-2024-08-07-at-10.11.25pm.png', 'https://oddevan.com/uploads/2024/screenshot-2024-08-07-at-10.09.54pm.png', 'https://oddevan.com/uploads/2024/screenshot-2024-08-07-at-10.09.08pm.png', 'https://oddevan.com/uploads/2024/screenshot-2024-08-07-at-10.08.15pm.png', 'https://oddevan.com/uploads/2024/screenshot-2024-08-07-at-10.07.47pm.png']
 +++
 
 Svelte components with an opinionated API.

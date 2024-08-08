@@ -4,7 +4,7 @@ link = "https://pilltimer.app/"
 link_text = "Get PillTimer"
 hero_image = "https://oddevan.com/uploads/2024/pt-hero.jpg"
 logo_image = "/logos/pilltimer.svg"
-gallery = ['https://picsum.photos/300?random=1', 'https://picsum.photos/300?random=2', 'https://picsum.photos/300?random=3', 'https://picsum.photos/300?random=4', 'https://picsum.photos/300?random=5']
+gallery = ['https://oddevan.com/uploads/2024/pt-main.jpg', 'https://oddevan.com/uploads/2024/next-static-media-archive.f8700ffd.png', 'https://oddevan.com/uploads/2024/next-static-media-track-everything.c36334e1.png', 'https://oddevan.com/uploads/2024/next-static-media-notification.855e27d5.png', 'https://oddevan.com/uploads/2024/next-static-media-do-the-math.f31f8521-2.png']
 +++
 
 Stop counting hours and doses and just take your medicine.
