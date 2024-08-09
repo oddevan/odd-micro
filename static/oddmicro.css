@@ -45,7 +45,19 @@ img {
 	max-width: 47rem;
 }
 
-/* Built-in styles */
+blockquote {
+	border-left: .25em solid var(--grey);
+	margin-inline-start: 0;
+	padding-inline-start: 2em;
+	font-style: italic;
+}
+
+sup {
+	font-size: .75em;
+}
+
+/* Built-in HTML */
+
 article.h-entry.post, #post-list, div.h-feed {
 	margin-inline: auto;
 	padding-inline: 0.5rem;
@@ -116,6 +128,40 @@ a:has(aside.dates), a.u-url.dates {
 			text-decoration: underline;
 		}
 	}
+}
+
+.footnotes {
+	margin-block: 1.5em;
+}
+
+/* From Alpine https://github.com/microdotblog/theme-alpine/blob/master/static/assets/css/style.css */
+
+code.highlighter-rouge {
+	background-color: #F5F5F5;
+	border-radius: 5px;
+	display: inline-block;
+	padding: 5px 8px;
+	color: #7F7F7F;
+	font-size: 15px;
+	line-height: 1.35;
+	font-style: italic;
+}
+
+span.code { font-family:Menlo, Monaco, Courier; background-color:#EEE; font-size:14px; }
+
+pre	{
+	white-space:pre-wrap;
+	padding:20px;
+	background-color:#fdfdfd;
+	overflow:auto;
+	border-radius: 5px;
+	background: #272b2d;
+  font-family: "Source Code Pro",Menlo,monospace;
+  font-size: 13px;
+  line-height: 1.5em;
+  font-weight: 500;
+	color: #d0d4d7;
+  margin-top: 15px;
 }
 
 /* Global nav */
