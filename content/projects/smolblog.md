@@ -2,9 +2,9 @@
 title = "Smolblog"
 link = "https://smolblog.com/"
 link_text = "Visit Smolblog"
-hero_image = "https://picsum.photos/1920/1080"
+hero_image = "https://oddevan.com/uploads/2024/retrosupply-jlwvautloaq-unsplash.jpg"
 logo_image = "/logos/smolblog.svg"
-gallery = ['https://picsum.photos/300?random=1', 'https://picsum.photos/300?random=2', 'https://picsum.photos/300?random=3', 'https://picsum.photos/300?random=4', 'https://picsum.photos/300?random=5']
+gallery = ['https://oddevan.com/uploads/2024/screenshot-2024-08-08-at-8.35.35pm.png', 'https://oddevan.com/uploads/2024/screenshot-2024-08-08-at-8.27.02pm.png', 'https://oddevan.com/uploads/2024/screenshot-2024-08-08-at-8.27.29pm.png', 'https://oddevan.com/uploads/2024/screenshot-2024-08-08-at-8.27.57pm.png', 'https://oddevan.com/uploads/2024/screenshot-2024-08-08-at-8.28.23pm.png']
 +++
 
 Social media is just blogging. So let’s make a blog that’s as easy and fun as social media built on an open platform we
